@@ -1,0 +1,1 @@
+all: gcc -Wall -g -o lexer lexer.c
