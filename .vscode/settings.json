@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "string": "c",
+        "format": "c",
+        "string.h": "c"
+    }
+}
